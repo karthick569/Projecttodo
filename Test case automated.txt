@@ -1,0 +1,7 @@
+TC_003 : Verify the user can add multiple items 
+          This test case can be automated because in this we have to type each items and them keep on adding.
+          If we automate this test case it will reduce some time.
+TC_006 : Verify the user able to empty the list
+          This test case can be automated because in this we have to do delete all the items one by one.
+          Instead that if we automate this test case it will reduce the time. 
+
